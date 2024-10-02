@@ -14,7 +14,7 @@ Here are some of the technologies and languages I'm proficient in:
   
 ## Collaboration and Feedback
 I'm open to collaboration and always eager to learn from others. If you have suggestions for improvement, feel free to reach out!
-My mail : vikenviramgama6232@gmail.com
+My mail id : vikenviramgama6232@gmail.com
 ## 📫 Connect with Me
 <a href="https://www.instagram.com/vikex._.27" target="_blank" style="display: inline-block; background-color: #0077b5; color: white; padding: 10px 15px; border-radius: 5px;">
     <img src="https://skillicons.dev/icons?i=instagram"/>
